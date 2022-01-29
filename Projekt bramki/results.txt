@@ -1,0 +1,4 @@
+IN: 1:0 2:0 OUT: 6:true
+IN: 1:0 2:1 OUT: 6:true
+IN: 1:1 2:1 OUT: 6:false
+IN: 1:1 2:0 OUT: 6:true
